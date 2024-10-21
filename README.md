@@ -1,8 +1,7 @@
-# React + Vite
+# Sistema de gestion KLONICE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aqui esta el push inicial del sistema de gestion de inventario de klonice. Esto incluye el back-end base de lo que será. Por eso es feito.
 
-Currently, two official plugins are available:
+Esta desarrollado con VITE Y REACT. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Falta la carpeta node_modules, que contiene todo lo necesario para correr, pidanlo o busquenlo, deberia crearse cuando ustedes generan un nuevo proyecto.
